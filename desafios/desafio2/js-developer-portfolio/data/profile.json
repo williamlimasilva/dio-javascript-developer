@@ -53,7 +53,7 @@
       },
       {
         "name": "PostgreSQL",
-        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/postgesql.png"
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
@@ -67,31 +67,31 @@
   "languages": ["Português BR - Nativo", "Inglês - Intermediário"],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "ChatGPT Clone desenvolvido usando Node JS",
+      "url": "https://github.com/williamlimasilva/dio-gpt-for-devs/tree/main/desafios/desafio1/chatgpt-clone",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Java RESTFul API desenvolvida como desafio do Bootcamp Santander | DIO - Digital Innovation One",
+      "url": "https://github.com/williamlimasilva/santander-bootcamp-2024",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "Full Stack Developer / Freelancer",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Atuo como desenvolvedor full stack, utilizando tecnologias como HTML, CSS, JavaScript, Node.js, React e diversos bancos de dados. Tenho a oportunidade de colaborar com profissionais excepcionais e desenvolver soluções inovadoras que atendem às necessidades do mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "CEO / Limit Exceeded",
+      "period": "2012 - 2022",
+      "description": "Como fundador e CEO da Limit Exceeded, uma empresa focada em jogos online e vendas de produtos de informática, liderei a criação e implementação de estratégias inovadoras que impulsionaram o crescimento da empresa. Supervisionando equipes talentosas, conseguimos transformar a experiência dos nossos clientes e expandir nossa presença no mercado."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de processos / Ford Motors Company",
+      "period": "2004 - 2012",
+      "description": "Atuei como analista especialista em padronização de processos produtivos, colaborando com equipes globais para otimizar e implementar processos eficientes. Contribuí para a melhoria contínua e a excelência operacional em diversas unidades da empresa."
     }
   ]
 }
