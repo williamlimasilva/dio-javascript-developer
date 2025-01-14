@@ -1,0 +1,97 @@
+{
+  "name": "William Lima Silva",
+  "photo": "https://avatars.githubusercontent.com/u/165820780?v=4",
+  "job": "WEB Developer",
+  "location": "São Paulo - SP",
+  "phone": "(11) 99741-8427",
+  "email": "williamlima.developer@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/javascript.png"
+      },
+      {
+        "name": "Node",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/nodejs.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/react.png"
+      },
+      {
+        "name": "Vue",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/vue.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/angular.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/java.png"
+      },
+      {
+        "name": "Spring",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/spring.png"
+      },
+      {
+        "name": "SQL",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/sql.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/mysql.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "https://raw.githubusercontent.com/williamlimasilva/dio-javascript-developer/refs/heads/main/desafios/desafio2/js-developer-portfolio/data/imgs/postgesql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": ["Português BR - Nativo", "Inglês - Intermediário"],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Arquiteto de software / S3 BANK",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    },
+    {
+      "name": "Software Engineering Lead / DIO",
+      "period": "2021 - 2022",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "CEO / Brain Machine",
+      "period": "2016 - 2021",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+    }
+  ]
+}
